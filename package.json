@@ -1,5 +1,5 @@
 {
-  "name": "react-native-gifted-chat",
+  "name": "@appkit-shared/react-native-gifted-chat",
   "version": "0.4.3",
   "description": "The most complete chat UI for React Native",
   "main": "index.js",
